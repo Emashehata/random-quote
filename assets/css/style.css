@@ -1,0 +1,26 @@
+ h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:  #FFD700 !important;
+    font-size: 60px;
+}
+header{
+    background-image: url(./../imgs/DALL·E\ 2024-11-23\ 19.44.16\ -\ A\ visually\ appealing\ background\ image\ designed\ for\ a\ website.\ The\ scene\ should\ feature\ a\ vibrant\ gradient\ blending\ soft\ blues\ and\ purples\ with\ subtle\ .webp);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+button{
+ color: #1E3A8A !important;
+}
+button:hover{
+    background-color:#FFD700  !important;
+    color:  black !important;
+}
+p{
+    color:    #33f1de !important;
+    font-size: 30px !important;
+}
+.randomQuote{
+    color: rgb(237, 127, 127) !important;
+    font-size: 30px !important;
+}
